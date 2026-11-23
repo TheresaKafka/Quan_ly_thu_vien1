@@ -1,0 +1,6 @@
+{
+  "name": "LibraCore — Hệ thống Quản lý Thư viện",
+  "description": "Hệ thống quản lý thư viện chuẩn hóa: quản lý đầu sách & bản sao vật lý, hồ sơ độc giả, nghiệp vụ mượn-trả-gia hạn tự động, kiểm kê kho mã vạch và báo cáo thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

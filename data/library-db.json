@@ -1,0 +1,854 @@
+{
+  "DauSach": [
+    {
+      "MaDauSach": "DS-001",
+      "ISBN": "978-0-13-235088-4",
+      "TenSach": "Clean Code — Mã sạch và Con đường trở thành nghệ nhân phần mềm",
+      "TacGia": "Robert C. Martin",
+      "TheLoai": "Công nghệ thông tin",
+      "NhaXuatBan": "NXB Dân Trí",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ A1 - Tầng 2",
+      "GiaBia": 320000,
+      "MoTa": "Cẩm nang chuẩn mực về thiết kế, đặt tên, cấu trúc hàm và tái cấu trúc mã nguồn sạch.",
+      "NgayTao": "2026-05-27T08:30:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-002",
+      "ISBN": "978-0-201-63361-0",
+      "TenSach": "Designing Data-Intensive Applications",
+      "TacGia": "Martin Kleppmann",
+      "TheLoai": "Công nghệ thông tin",
+      "NhaXuatBan": "O'Reilly Media",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ A1 - Tầng 3",
+      "GiaBia": 580000,
+      "MoTa": "Kiến trúc hệ thống phân tán, cơ sở dữ liệu, nhân bản và xử lý luồng dữ liệu quy mô lớn.",
+      "NgayTao": "2026-06-16T09:15:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-003",
+      "ISBN": "978-604-1-19823-4",
+      "TenSach": "Giáo trình Cơ sở dữ liệu Quan hệ & Chuẩn hóa 3NF",
+      "TacGia": "PGS.TS. Nguyễn Bá Tường",
+      "TheLoai": "Công nghệ thông tin",
+      "NhaXuatBan": "NXB Đại học Quốc gia",
+      "NamXuatBan": 2023,
+      "ViTriKe": "Kệ A2 - Tầng 1",
+      "GiaBia": 145000,
+      "MoTa": "Lý thuyết mô hình thực thể kết hợp ERD, đại số quan hệ, chuẩn hóa và tối ưu chỉ mục SQL.",
+      "NgayTao": "2026-07-06T10:00:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-004",
+      "ISBN": "978-604-2-28411-9",
+      "TenSach": "Tư duy nhanh và chậm (Thinking, Fast and Slow)",
+      "TacGia": "Daniel Kahneman",
+      "TheLoai": "Tâm lý - Kinh tế",
+      "NhaXuatBan": "NXB Thế Giới",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ B3 - Tầng 2",
+      "GiaBia": 210000,
+      "MoTa": "Phân tích hai hệ thống tư duy của con người và các thiên kiến nhận thức trong ra quyết định.",
+      "NgayTao": "2026-07-26T14:20:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-005",
+      "ISBN": "978-604-58-9214-2",
+      "TenSach": "Kinh tế học vĩ mô căn bản",
+      "TacGia": "N. Gregory Mankiw",
+      "TheLoai": "Kinh tế",
+      "NhaXuatBan": "NXB Hồng Đức",
+      "NamXuatBan": 2020,
+      "ViTriKe": "Kệ B1 - Tầng 1",
+      "GiaBia": 295000,
+      "MoTa": "Nguyên lý cung cầu, lạm phát, chính sách tiền tệ và tăng trưởng kinh tế dài hạn.",
+      "NgayTao": "2026-08-05T11:10:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-006",
+      "ISBN": "978-604-1-17452-8",
+      "TenSach": "Số Đỏ",
+      "TacGia": "Vũ Trọng Phụng",
+      "TheLoai": "Văn học Việt Nam",
+      "NhaXuatBan": "NXB Văn Học",
+      "NamXuatBan": 2019,
+      "ViTriKe": "Kệ C2 - Tầng 1",
+      "GiaBia": 98000,
+      "MoTa": "Tác phẩm tiểu thuyết trào phúng kinh điển của văn học hiện thực phê phán Việt Nam.",
+      "NgayTao": "2026-08-20T08:45:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-007",
+      "ISBN": "978-604-3-41920-5",
+      "TenSach": "Lược sử loài người (Sapiens)",
+      "TacGia": "Yuval Noah Harari",
+      "TheLoai": "Lịch sử - Khoa học",
+      "NhaXuatBan": "NXB Tri Thức",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ D1 - Tầng 2",
+      "GiaBia": 240000,
+      "MoTa": "Hành trình tiến hóa của Homo sapiens từ cách mạng nhận thức đến kỷ nguyên công nghệ sinh học.",
+      "NgayTao": "2026-09-04T15:30:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-008",
+      "ISBN": "978-604-1-20118-5",
+      "TenSach": "Vũ trụ trong vỏ hạt dẻ",
+      "TacGia": "Stephen Hawking",
+      "TheLoai": "Khoa học tự nhiên",
+      "NhaXuatBan": "NXB Trẻ",
+      "NamXuatBan": 2020,
+      "ViTriKe": "Kệ D2 - Tầng 3",
+      "GiaBia": 165000,
+      "MoTa": "Khám phá vật lý lượng tử, hố đen, thuyết tương đối rộng và bản chất của thời gian.",
+      "NgayTao": "2026-09-19T10:25:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-009",
+      "ISBN": "978-1-491-95035-7",
+      "TenSach": "Building Microservices — Kiến trúc hệ thống phân mảnh",
+      "TacGia": "Sam Newman",
+      "TheLoai": "Công nghệ thông tin",
+      "NhaXuatBan": "O'Reilly Media",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ A3 - Tầng 2",
+      "GiaBia": 460000,
+      "MoTa": "Thiết kế, triển khai và giám sát hệ thống microservices linh hoạt và ổn định.",
+      "NgayTao": "2026-10-09T09:00:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-010",
+      "ISBN": "978-604-1-18902-7",
+      "TenSach": "Phi lý trí (Predictably Irrational)",
+      "TacGia": "Dan Ariely",
+      "TheLoai": "Tâm lý - Kinh tế",
+      "NhaXuatBan": "NXB Lao Động",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ B3 - Tầng 2",
+      "GiaBia": 185000,
+      "MoTa": "Kinh tế học hành vi lý giải những lực đẩy vô hình chi phối quyết định tiêu dùng và lựa chọn của con người.",
+      "NgayTao": "2026-10-14T10:15:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-011",
+      "ISBN": "978-604-2-27110-2",
+      "TenSach": "Nghệ thuật tư duy rành mạch (The Art of Thinking Clearly)",
+      "TacGia": "Rolf Dobelli",
+      "TheLoai": "Tâm lý - Kinh tế",
+      "NhaXuatBan": "NXB Thế Giới",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ B3 - Tầng 3",
+      "GiaBia": 175000,
+      "MoTa": "Tổng hợp 99 sai lầm nhận thức phổ biến trong kinh tế, đầu tư và cuộc sống hàng ngày.",
+      "NgayTao": "2026-10-16T11:00:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-012",
+      "ISBN": "978-604-58-8741-4",
+      "TenSach": "Kinh tế học vi mô (Microeconomics)",
+      "TacGia": "Robert S. Pindyck & Daniel L. Rubinfeld",
+      "TheLoai": "Kinh tế",
+      "NhaXuatBan": "NXB Kinh tế TP.HCM",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ B1 - Tầng 2",
+      "GiaBia": 310000,
+      "MoTa": "Giáo trình kinh tế học vi mô phân tích hành vi người tiêu dùng, doanh nghiệp, cấu trúc thị trường và cân bằng cạnh tranh.",
+      "NgayTao": "2026-10-19T08:40:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-013",
+      "ISBN": "978-604-3-38120-5",
+      "TenSach": "Quốc gia khởi nghiệp (Start-up Nation)",
+      "TacGia": "Dan Senor & Saul Singer",
+      "TheLoai": "Kinh tế",
+      "NhaXuatBan": "NXB Tri Thức",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ B2 - Tầng 1",
+      "GiaBia": 195000,
+      "MoTa": "Câu chuyện phát triển hệ sinh thái đổi mới sáng tạo và kinh tế công nghệ cao của Israel.",
+      "NgayTao": "2026-10-22T13:20:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-014",
+      "ISBN": "978-604-1-16230-3",
+      "TenSach": "Tắt đèn",
+      "TacGia": "Ngô Tất Tố",
+      "TheLoai": "Văn học Việt Nam",
+      "NhaXuatBan": "NXB Văn Học",
+      "NamXuatBan": 2020,
+      "ViTriKe": "Kệ C2 - Tầng 1",
+      "GiaBia": 85000,
+      "MoTa": "Tiểu thuyết hiện thực xuất sắc phản ánh thân phận người nông dân Việt Nam trước Cách mạng qua hình tượng chị Dậu.",
+      "NgayTao": "2026-10-24T09:10:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-015",
+      "ISBN": "978-604-2-29845-1",
+      "TenSach": "Dế Mèn phiêu lưu ký",
+      "TacGia": "Tô Hoài",
+      "TheLoai": "Văn học Việt Nam",
+      "NhaXuatBan": "NXB Kim Đồng",
+      "NamXuatBan": 2023,
+      "ViTriKe": "Kệ C2 - Tầng 2",
+      "GiaBia": 110000,
+      "MoTa": "Tác phẩm văn học thiếu nhi kinh điển Việt Nam về hành trình trưởng thành và tình bạn của chú Dế Mèn.",
+      "NgayTao": "2026-10-26T10:00:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-016",
+      "ISBN": "978-604-3-40512-3",
+      "TenSach": "Súng, Vi trùng và Thép (Guns, Germs, and Steel)",
+      "TacGia": "Jared Diamond",
+      "TheLoai": "Lịch sử - Khoa học",
+      "NhaXuatBan": "NXB Tri Thức",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ D1 - Tầng 2",
+      "GiaBia": 260000,
+      "MoTa": "Nghiên cứu lịch sử địa lý và sinh thái lý giải vì sao các nền văn minh phát triển với tốc độ khác nhau.",
+      "NgayTao": "2026-10-29T14:00:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-017",
+      "ISBN": "978-604-2-31044-3",
+      "TenSach": "Homo Deus — Lược sử tương lai",
+      "TacGia": "Yuval Noah Harari",
+      "TheLoai": "Lịch sử - Khoa học",
+      "NhaXuatBan": "NXB Thế Giới",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ D1 - Tầng 3",
+      "GiaBia": 250000,
+      "MoTa": "Khảo sát tương lai nhân loại trong kỷ nguyên trí tuệ nhân tạo, thuật toán dữ liệu lớn và công nghệ sinh học.",
+      "NgayTao": "2026-11-01T15:10:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-018",
+      "ISBN": "978-604-1-19401-4",
+      "TenSach": "Lược sử thời gian (A Brief History of Time)",
+      "TacGia": "Stephen Hawking",
+      "TheLoai": "Khoa học tự nhiên",
+      "NhaXuatBan": "NXB Trẻ",
+      "NamXuatBan": 2021,
+      "ViTriKe": "Kệ D2 - Tầng 2",
+      "GiaBia": 155000,
+      "MoTa": "Giải thích đại chúng về vụ nổ lớn Big Bang, lỗ đen, mũi tên thời gian và lý thuyết thống nhất vật lý.",
+      "NgayTao": "2026-11-03T09:30:00",
+      "DaXoa": false
+    },
+    {
+      "MaDauSach": "DS-019",
+      "ISBN": "978-604-2-28910-7",
+      "TenSach": "Vũ trụ (Cosmos)",
+      "TacGia": "Carl Sagan",
+      "TheLoai": "Khoa học tự nhiên",
+      "NhaXuatBan": "NXB Thế Giới",
+      "NamXuatBan": 2022,
+      "ViTriKe": "Kệ D2 - Tầng 3",
+      "GiaBia": 270000,
+      "MoTa": "Hành trình khám phá thiên văn học, sự sống ngoài Trái Đất và lịch sử tiến hóa của tri thức khoa học.",
+      "NgayTao": "2026-11-05T11:45:00",
+      "DaXoa": false
+    }
+  ],
+  "BanSaoSach": [
+    {
+      "MaBanSao": "BS-00101",
+      "MaDauSach": "DS-001",
+      "NgayNhapKho": "2026-05-27",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Tốt, bìa cứng"
+    },
+    {
+      "MaBanSao": "BS-00102",
+      "MaDauSach": "DS-001",
+      "NgayNhapKho": "2026-05-27",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-00103",
+      "MaDauSach": "DS-001",
+      "NgayNhapKho": "2026-07-26",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00104",
+      "MaDauSach": "DS-001",
+      "NgayNhapKho": "2026-08-25",
+      "TrangThai": "HU_HONG",
+      "TinhTrangVatLy": "Bong gáy, cần dán lại"
+    },
+    {
+      "MaBanSao": "BS-00201",
+      "MaDauSach": "DS-002",
+      "NgayNhapKho": "2026-06-16",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Tốt"
+    },
+    {
+      "MaBanSao": "BS-00202",
+      "MaDauSach": "DS-002",
+      "NgayNhapKho": "2026-06-16",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-00203",
+      "MaDauSach": "DS-002",
+      "NgayNhapKho": "2026-08-15",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00301",
+      "MaDauSach": "DS-003",
+      "NgayNhapKho": "2026-07-06",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Bình thường"
+    },
+    {
+      "MaBanSao": "BS-00302",
+      "MaDauSach": "DS-003",
+      "NgayNhapKho": "2026-07-06",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Sờn mép nhẹ"
+    },
+    {
+      "MaBanSao": "BS-00303",
+      "MaDauSach": "DS-003",
+      "NgayNhapKho": "2026-07-06",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-00304",
+      "MaDauSach": "DS-003",
+      "NgayNhapKho": "2026-09-14",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00401",
+      "MaDauSach": "DS-004",
+      "NgayNhapKho": "2026-07-26",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-00402",
+      "MaDauSach": "DS-004",
+      "NgayNhapKho": "2026-07-26",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Tốt"
+    },
+    {
+      "MaBanSao": "BS-00403",
+      "MaDauSach": "DS-004",
+      "NgayNhapKho": "2026-09-04",
+      "TrangThai": "THAT_LAC",
+      "TinhTrangVatLy": "Độc giả làm mất chưa bồi hoàn"
+    },
+    {
+      "MaBanSao": "BS-00501",
+      "MaDauSach": "DS-005",
+      "NgayNhapKho": "2026-08-05",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Tốt"
+    },
+    {
+      "MaBanSao": "BS-00502",
+      "MaDauSach": "DS-005",
+      "NgayNhapKho": "2026-08-05",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Tốt"
+    },
+    {
+      "MaBanSao": "BS-00503",
+      "MaDauSach": "DS-005",
+      "NgayNhapKho": "2026-08-05",
+      "TrangThai": "THANH_LY",
+      "TinhTrangVatLy": "Ấn bản cũ đã thanh lý"
+    },
+    {
+      "MaBanSao": "BS-00601",
+      "MaDauSach": "DS-006",
+      "NgayNhapKho": "2026-08-20",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 90%"
+    },
+    {
+      "MaBanSao": "BS-00602",
+      "MaDauSach": "DS-006",
+      "NgayNhapKho": "2026-08-20",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-00603",
+      "MaDauSach": "DS-006",
+      "NgayNhapKho": "2026-09-24",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00701",
+      "MaDauSach": "DS-007",
+      "NgayNhapKho": "2026-09-04",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Tốt"
+    },
+    {
+      "MaBanSao": "BS-00702",
+      "MaDauSach": "DS-007",
+      "NgayNhapKho": "2026-09-04",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-00703",
+      "MaDauSach": "DS-007",
+      "NgayNhapKho": "2026-10-04",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00801",
+      "MaDauSach": "DS-008",
+      "NgayNhapKho": "2026-09-19",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-00802",
+      "MaDauSach": "DS-008",
+      "NgayNhapKho": "2026-09-19",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-00901",
+      "MaDauSach": "DS-009",
+      "NgayNhapKho": "2026-10-09",
+      "TrangThai": "DANG_MUON",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00902",
+      "MaDauSach": "DS-009",
+      "NgayNhapKho": "2026-10-09",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-00903",
+      "MaDauSach": "DS-009",
+      "NgayNhapKho": "2026-10-24",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01001",
+      "MaDauSach": "DS-010",
+      "NgayNhapKho": "2026-10-14",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01002",
+      "MaDauSach": "DS-010",
+      "NgayNhapKho": "2026-10-14",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-01101",
+      "MaDauSach": "DS-011",
+      "NgayNhapKho": "2026-10-16",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01102",
+      "MaDauSach": "DS-011",
+      "NgayNhapKho": "2026-10-16",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-01201",
+      "MaDauSach": "DS-012",
+      "NgayNhapKho": "2026-10-19",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01202",
+      "MaDauSach": "DS-012",
+      "NgayNhapKho": "2026-10-19",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01301",
+      "MaDauSach": "DS-013",
+      "NgayNhapKho": "2026-10-22",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-01302",
+      "MaDauSach": "DS-013",
+      "NgayNhapKho": "2026-10-22",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01401",
+      "MaDauSach": "DS-014",
+      "NgayNhapKho": "2026-10-24",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-01402",
+      "MaDauSach": "DS-014",
+      "NgayNhapKho": "2026-10-24",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01501",
+      "MaDauSach": "DS-015",
+      "NgayNhapKho": "2026-10-26",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%, bản bìa cứng"
+    },
+    {
+      "MaBanSao": "BS-01502",
+      "MaDauSach": "DS-015",
+      "NgayNhapKho": "2026-10-26",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01503",
+      "MaDauSach": "DS-015",
+      "NgayNhapKho": "2026-11-03",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01601",
+      "MaDauSach": "DS-016",
+      "NgayNhapKho": "2026-10-29",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-01602",
+      "MaDauSach": "DS-016",
+      "NgayNhapKho": "2026-10-29",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01701",
+      "MaDauSach": "DS-017",
+      "NgayNhapKho": "2026-11-01",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01702",
+      "MaDauSach": "DS-017",
+      "NgayNhapKho": "2026-11-01",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 98%"
+    },
+    {
+      "MaBanSao": "BS-01801",
+      "MaDauSach": "DS-018",
+      "NgayNhapKho": "2026-11-03",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01802",
+      "MaDauSach": "DS-018",
+      "NgayNhapKho": "2026-11-03",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 95%"
+    },
+    {
+      "MaBanSao": "BS-01901",
+      "MaDauSach": "DS-019",
+      "NgayNhapKho": "2026-11-05",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    },
+    {
+      "MaBanSao": "BS-01902",
+      "MaDauSach": "DS-019",
+      "NgayNhapKho": "2026-11-05",
+      "TrangThai": "SAN_SANG",
+      "TinhTrangVatLy": "Mới 100%"
+    }
+  ],
+  "DocGia": [
+    {
+      "MaDocGia": "DG-2024001",
+      "HoTen": "Nguyễn Minh Anh",
+      "NgaySinh": "2004-05-14",
+      "SoDienThoai": "0912345678",
+      "Email": "minhanh.nguyen@sv.edu.vn",
+      "DiaChi": "Ký túc xá Khu A, Thủ Đức",
+      "LoaiDocGia": "SINH_VIEN",
+      "NgayCapThe": "2026-01-27",
+      "NgayHetHan": "2027-11-23",
+      "TrangThaiThe": "HOAT_DONG"
+    },
+    {
+      "MaDocGia": "DG-2024002",
+      "HoTen": "TS. Trần Quốc Bảo",
+      "NgaySinh": "1982-11-02",
+      "SoDienThoai": "0987654321",
+      "Email": "bao.tq@gv.edu.vn",
+      "DiaChi": "Khoa Công nghệ Thông tin",
+      "LoaiDocGia": "GIANG_VIEN",
+      "NgayCapThe": "2025-10-19",
+      "NgayHetHan": "2028-04-06",
+      "TrangThaiThe": "HOAT_DONG"
+    },
+    {
+      "MaDocGia": "DG-2024003",
+      "HoTen": "Lê Hoàng Phúc",
+      "NgaySinh": "2003-08-21",
+      "SoDienThoai": "0938112233",
+      "Email": "phuc.le@sv.edu.vn",
+      "DiaChi": "Quận 3, TP.HCM",
+      "LoaiDocGia": "SINH_VIEN",
+      "NgayCapThe": "2026-03-18",
+      "NgayHetHan": "2027-05-22",
+      "TrangThaiThe": "HOAT_DONG"
+    },
+    {
+      "MaDocGia": "DG-2024004",
+      "HoTen": "Phạm Thảo Vy",
+      "NgaySinh": "2005-02-19",
+      "SoDienThoai": "0909445566",
+      "Email": "thaovy.pham@sv.edu.vn",
+      "DiaChi": "Bình Thạnh, TP.HCM",
+      "LoaiDocGia": "SINH_VIEN",
+      "NgayCapThe": "2026-05-07",
+      "NgayHetHan": "2027-06-11",
+      "TrangThaiThe": "HOAT_DONG"
+    },
+    {
+      "MaDocGia": "DG-2024005",
+      "HoTen": "Hoàng Văn Đức",
+      "NgaySinh": "1996-09-10",
+      "SoDienThoai": "0977889900",
+      "Email": "duc.hoang@gmail.com",
+      "DiaChi": "Quận 1, TP.HCM",
+      "LoaiDocGia": "KHACH",
+      "NgayCapThe": "2026-06-26",
+      "NgayHetHan": "2027-02-21",
+      "TrangThaiThe": "BI_KHOA"
+    },
+    {
+      "MaDocGia": "DG-2024006",
+      "HoTen": "Đặng Ngọc Linh",
+      "NgaySinh": "2004-12-03",
+      "SoDienThoai": "0944332211",
+      "Email": "linh.dang@sv.edu.vn",
+      "DiaChi": "Phú Nhuận, TP.HCM",
+      "LoaiDocGia": "SINH_VIEN",
+      "NgayCapThe": "2025-10-29",
+      "NgayHetHan": "2026-11-13",
+      "TrangThaiThe": "HET_HAN"
+    }
+  ],
+  "PhieuMuonTra": [
+    {
+      "MaPhieu": "PM-20261123-0001",
+      "MaDocGia": "DG-2024001",
+      "NgayMuon": "2026-11-01T09:15:00",
+      "NguoiLapPhieu": "Thủ thư Lan Hương",
+      "TrangThaiPhieu": "TRA_MOT_PHAN",
+      "GhiChu": "Mượn tài liệu đồ án chuyên ngành"
+    },
+    {
+      "MaPhieu": "PM-20261123-0002",
+      "MaDocGia": "DG-2024002",
+      "NgayMuon": "2026-11-13T14:00:00",
+      "NguoiLapPhieu": "Thủ thư Lan Hương",
+      "TrangThaiPhieu": "DANG_MUON",
+      "GhiChu": "Tài liệu tham khảo giảng dạy học kỳ 1"
+    },
+    {
+      "MaPhieu": "PM-20261123-0003",
+      "MaDocGia": "DG-2024003",
+      "NgayMuon": "2026-11-11T10:30:00",
+      "NguoiLapPhieu": "Thủ thư Minh Tuấn",
+      "TrangThaiPhieu": "DANG_MUON",
+      "GhiChu": null
+    },
+    {
+      "MaPhieu": "PM-20261123-0004",
+      "MaDocGia": "DG-2024004",
+      "NgayMuon": "2026-11-04T15:45:00",
+      "NguoiLapPhieu": "Thủ thư Minh Tuấn",
+      "TrangThaiPhieu": "DA_HOAN_THANH",
+      "GhiChu": null
+    },
+    {
+      "MaPhieu": "PM-20261123-0005",
+      "MaDocGia": "DG-2024005",
+      "NgayMuon": "2026-10-26T11:20:00",
+      "NguoiLapPhieu": "Thủ thư Lan Hương",
+      "TrangThaiPhieu": "DA_HOAN_THANH",
+      "GhiChu": "Làm mất sách BS-00403, chờ đóng đền bù"
+    }
+  ],
+  "ChiTietMuonTra": [
+    {
+      "MaChiTiet": 1,
+      "MaPhieu": "PM-20261123-0001",
+      "MaBanSao": "BS-00101",
+      "NgayHenTra": "2026-11-15",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 2,
+      "MaPhieu": "PM-20261123-0001",
+      "MaBanSao": "BS-00303",
+      "NgayHenTra": "2026-11-15",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": "2026-11-13T16:10:00",
+      "TinhTrangKhiTra": "BINH_THUONG",
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 3,
+      "MaPhieu": "PM-20261123-0002",
+      "MaBanSao": "BS-00201",
+      "NgayHenTra": "2026-12-13",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 4,
+      "MaPhieu": "PM-20261123-0002",
+      "MaBanSao": "BS-00301",
+      "NgayHenTra": "2026-12-13",
+      "SoLanGiaHan": 1,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 5,
+      "MaPhieu": "PM-20261123-0002",
+      "MaBanSao": "BS-00901",
+      "NgayHenTra": "2026-11-25",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 6,
+      "MaPhieu": "PM-20261123-0003",
+      "MaBanSao": "BS-00302",
+      "NgayHenTra": "2026-11-25",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 7,
+      "MaPhieu": "PM-20261123-0003",
+      "MaBanSao": "BS-00402",
+      "NgayHenTra": "2026-11-24",
+      "SoLanGiaHan": 1,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 8,
+      "MaPhieu": "PM-20261123-0003",
+      "MaBanSao": "BS-00701",
+      "NgayHenTra": "2026-11-28",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": null,
+      "TinhTrangKhiTra": null,
+      "TienPhat": 0,
+      "DaDongPhat": false
+    },
+    {
+      "MaChiTiet": 9,
+      "MaPhieu": "PM-20261123-0004",
+      "MaBanSao": "BS-00601",
+      "NgayHenTra": "2026-11-18",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": "2026-11-20T14:20:00",
+      "TinhTrangKhiTra": "BINH_THUONG",
+      "TienPhat": 10000,
+      "DaDongPhat": true
+    },
+    {
+      "MaChiTiet": 10,
+      "MaPhieu": "PM-20261123-0005",
+      "MaBanSao": "BS-00403",
+      "NgayHenTra": "2026-11-02",
+      "SoLanGiaHan": 0,
+      "NgayTraThucTe": "2026-11-08T10:00:00",
+      "TinhTrangKhiTra": "LAM_MAT",
+      "TienPhat": 210000,
+      "DaDongPhat": false
+    }
+  ],
+  "NhacNho": [
+    {
+      "id": "NN-001",
+      "MaDocGia": "DG-2024001",
+      "HoTen": "Nguyễn Minh Anh",
+      "Kenh": "EMAIL",
+      "NoiDung": "Nhắc trả sách BS-00101 (Clean Code) đã quá hạn trả.",
+      "ThoiGianGui": "2026-11-21T08:00:00"
+    }
+  ],
+  "KiemKe": []
+}
